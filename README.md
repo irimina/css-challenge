@@ -1,2 +1,2 @@
 # css-challenge
-Use CSS to code the image here
+Use CSS to code the image named final-product
